@@ -1,4 +1,4 @@
-Custom auth/authz test app
+auth/authz test app
 
 Как запустить:
 
